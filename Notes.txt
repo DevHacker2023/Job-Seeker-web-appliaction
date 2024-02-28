@@ -1,0 +1,17 @@
+It is a job seeking web application. 
+we are going to have authentication In which There will be authorization and CRUD operation, Data manipulation all these thing available in this my project 
+In this we have use React, MongoDB, Express, Node.js and Json Web token 
+
+In this Project we have login page and we have register page
+when we register this page it will brought to the page home page In home page we have opting to click ALL JOBS, MY APPLICATION, LOGOUT 
+Here we will use Monodb database  
+
+When we click 'ALL JOBS' option then we have show on the page many jobs and these jobs are comes fetching from databse 
+When we will click on 'Job Details' then here show 'apply now' option button and when we click on 'apply now' button then when we can see 'application form' and when we fill 'application form' and submit this application form clicking 'Send Application' button and we can go clicking button 'MY APPLICATION' when here show all my details 
+
+If you login as an employer then we go clicking button on 'APPLICANTS APPLICATIONS' on my details nad here no any option of we can see delete application because we have apply on this project like functionality, That the delete button is only for the applicant(means jo apply kar raha ho)
+amd here we see here details of job seeker and we can contact him by email or phone number 
+After login we can go by clicking button on 'Job Details' here we can see it is a employer he can't  apply 
+
+And here we can post job after clicking button on 'POST NEW JOB' and filling the application form POST NEW JOB 
+In this we can do expire job and  
